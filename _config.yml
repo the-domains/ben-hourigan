@@ -1,4 +1,3 @@
-layout_spectrum: 0.2928328353445977
 typography_spectrum: 0.9787903116084635
 color:
   brandStrength: 0.6693706170190126
@@ -11,5 +10,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.2928328353445977
 name: Ben Hourigan
 title: Test headline
+description: Test tagline
